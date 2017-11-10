@@ -136,7 +136,7 @@ plot(1:9,R);
 hold on
 plot(1:9,R1);
 
-%100x values curve is smoother than the 10x values.
+%100x values curve is smoother than the 10x values. The adjusted Rsquare is also closer to the unadjusted.
 
 % Problem 2. Basic statistics. 
 % Part 1. Consider two different distributions - Gaussian numbers with a mean of
