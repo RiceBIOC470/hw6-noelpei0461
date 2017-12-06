@@ -1,4 +1,14 @@
 %HW6
+%GB comments
+1a 95 no axis labels
+1b 95 no axis labels
+1c 95 no axis labels
+1d 85 no axis labels.  A more clear explanation of why the behavior in the system of graphs occurs would be good. 
+1e 95 no axis lables
+2a 95
+2b 95
+2c 95
+Overall: 94
 
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
